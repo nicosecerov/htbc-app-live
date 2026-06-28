@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build23-safe-area';
+const CACHE_NAME = 'htbc-terrain-build24-carte-explorer-fusion';
 
 const PRECACHE_URLS = [
   './',
