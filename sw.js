@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build25-secours-sos';
+const CACHE_NAME = 'htbc-terrain-build26-recompense-karma';
 
 const PRECACHE_URLS = [
   './',
