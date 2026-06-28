@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build19-field-core-fix';
+const CACHE_NAME = 'htbc-terrain-build20-filet-securite';
 
 const PRECACHE_URLS = [
   './',
