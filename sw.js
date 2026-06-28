@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build20-filet-securite';
+const CACHE_NAME = 'htbc-terrain-build21-cartes-cliquables';
 
 const PRECACHE_URLS = [
   './',
