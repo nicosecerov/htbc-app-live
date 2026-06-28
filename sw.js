@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build16-terrain-capture';
+const CACHE_NAME = 'htbc-terrain-build17-tracking-fond';
 
 const PRECACHE_URLS = [
   './',
