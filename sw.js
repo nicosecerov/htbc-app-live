@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build21-cartes-cliquables';
+const CACHE_NAME = 'htbc-terrain-build22-trace-visible';
 
 const PRECACHE_URLS = [
   './',
