@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-v1';
+const CACHE_NAME = 'htbc-terrain-build16-terrain-capture';
 
 const PRECACHE_URLS = [
   './',
@@ -49,18 +49,14 @@ self.addEventListener('fetch', (event) => {
   if (requestUrl.origin !== scopeUrl.origin) return;
 
   event.respondWith(
-    caches.match(request).then((cachedResponse) => {
-      const networkResponse = fetch(request)
-        .then((response) => {
-          if (response.ok) {
-            const responseCopy = response.clone();
-            caches.open(CACHE_NAME).then((cache) => cache.put(request, responseCopy));
-          }
-          return response;
-        })
-        .catch(() => cachedResponse);
-
-      return cachedResponse || networkResponse;
-    }),
+    fetch(request)
+      .then((response) => {
+        if (response.ok) {
+          const responseCopy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(request, responseCopy));
+        }
+        return response;
+      })
+      .catch(() => caches.match(request)),
   );
 });
