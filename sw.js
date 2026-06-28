@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build22-trace-visible';
+const CACHE_NAME = 'htbc-terrain-build23-safe-area';
 
 const PRECACHE_URLS = [
   './',
