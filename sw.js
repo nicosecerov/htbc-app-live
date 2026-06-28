@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build27-pistes-osm-reelles';
+const CACHE_NAME = 'htbc-terrain-build28-pistes-completes-secteurs';
 
 const PRECACHE_URLS = [
   './',
