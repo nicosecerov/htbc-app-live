@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build28-pistes-completes-secteurs';
+const CACHE_NAME = 'htbc-terrain-build29-secteurs-nav-fixes';
 
 const PRECACHE_URLS = [
   './',
