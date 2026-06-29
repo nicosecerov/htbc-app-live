@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build30-secteur-arcs-peisey';
+const CACHE_NAME = 'htbc-terrain-build31-curation-pistes';
 
 const PRECACHE_URLS = [
   './',
