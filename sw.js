@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build31-curation-pistes';
+const CACHE_NAME = 'htbc-terrain-build32-archi-modules';
 
 const PRECACHE_URLS = [
   './',
