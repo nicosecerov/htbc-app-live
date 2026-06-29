@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build32-archi-modules';
+const CACHE_NAME = 'htbc-terrain-build33-batch-audit';
 
 const PRECACHE_URLS = [
   './',
