@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build29-secteurs-nav-fixes';
+const CACHE_NAME = 'htbc-terrain-build30-secteur-arcs-peisey';
 
 const PRECACHE_URLS = [
   './',

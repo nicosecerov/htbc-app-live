@@ -8467,7 +8467,7 @@
  {
   "name": "Black 8",
   "diff": "red",
-  "sector": "Les Arcs",
+  "sector": "Les Arcs / Peisey-Vallandry",
   "km": "5,6",
   "duration": "",
   "elevation": "",
@@ -9064,7 +9064,7 @@
  {
   "name": "Elle Chablatte",
   "diff": "blue",
-  "sector": "Les Arcs",
+  "sector": "Les Arcs / Peisey-Vallandry",
   "km": "2,1",
   "duration": "",
   "elevation": "",
@@ -9425,7 +9425,7 @@
  {
   "name": "Legend",
   "diff": "blue",
-  "sector": "Les Arcs",
+  "sector": "Les Arcs / Peisey-Vallandry",
   "km": "3,9",
   "duration": "",
   "elevation": "",
@@ -10526,7 +10526,7 @@
  {
   "name": "Marsupilami",
   "diff": "blue",
-  "sector": "Les Arcs",
+  "sector": "Les Arcs / Peisey-Vallandry",
   "km": "1,4",
   "duration": "",
   "elevation": "",
@@ -10859,7 +10859,7 @@
  {
   "name": "Woodstock",
   "diff": "blue",
-  "sector": "Peisey-Vallandry",
+  "sector": "Les Arcs / Peisey-Vallandry",
   "km": "4,2",
   "duration": "",
   "elevation": "",
