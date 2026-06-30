@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build43-signalement-sur-wording';
+const CACHE_NAME = 'htbc-terrain-build44-foryou-honnete';
 
 const PRECACHE_URLS = [
   './',
