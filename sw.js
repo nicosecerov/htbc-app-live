@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build47-signaler-central';
+const CACHE_NAME = 'htbc-terrain-build48-signaler-signature';
 
 const PRECACHE_URLS = [
   './',
