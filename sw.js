@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build37-actions-terrain-carte';
+const CACHE_NAME = 'htbc-terrain-build38-signalement-lieu-repere';
 
 const PRECACHE_URLS = [
   './',
