@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build38-signalement-lieu-repere';
+const CACHE_NAME = 'htbc-terrain-build39-preuve-xp-validation';
 
 const PRECACHE_URLS = [
   './',
