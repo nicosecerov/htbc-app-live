@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build40-admin-cockpit';
+const CACHE_NAME = 'htbc-terrain-build41-chantiers-documentes';
 
 const PRECACHE_URLS = [
   './',
