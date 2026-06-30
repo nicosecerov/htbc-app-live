@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build45-recentrage-v1';
+const CACHE_NAME = 'htbc-terrain-build46-terrain-pilier';
 
 const PRECACHE_URLS = [
   './',
