@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build39-preuve-xp-validation';
+const CACHE_NAME = 'htbc-terrain-build40-admin-cockpit';
 
 const PRECACHE_URLS = [
   './',
