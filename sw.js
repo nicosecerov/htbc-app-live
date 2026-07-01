@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build50-home-signaler-serein-bb429af3';
+const CACHE_NAME = 'htbc-terrain-build51-plan-resolution-8661493f';
 
 const PRECACHE_URLS = [
   './',
@@ -13,15 +13,15 @@ const PRECACHE_URLS = [
   // scripts/inject-sw-precache.mjs : sans eux, premiere ouverture hors ligne = ecran blanc.
   './htbc-config.js',
   './assets/index-B-bkPLpa.css',
-  './assets/index-CSlJDFQ5.js',
-  './assets/index-DcUDKe34.js',
-  './assets/index-EtdCZhN3.js',
-  './assets/index-O8HgeLcB.js',
-  './assets/index-Uy8ioMN5.js',
-  './assets/native-geo-Cr2Id_SQ.js',
-  './assets/web-9dmXDKJc.js',
-  './assets/web-DcBCsrQj.js',
-  './assets/web-DnGfZPVY.js',
+  './assets/index-CYsh1Fr_.js',
+  './assets/index-DWLr-sBa.js',
+  './assets/index-DaArYat_.js',
+  './assets/index-DzmD9_gu.js',
+  './assets/index-VJA_jWtm.js',
+  './assets/native-geo-B5-ppoFI.js',
+  './assets/web-BHzHXBqL.js',
+  './assets/web-DvFTWCvq.js',
+  './assets/web-Olnnb4L1.js',
 ];
 
 function scopedUrl(path) {
