@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build50-home-signaler-serein';
+const CACHE_NAME = 'htbc-terrain-build50-home-signaler-serein-bb429af3';
 
 const PRECACHE_URLS = [
   './',
@@ -9,6 +9,19 @@ const PRECACHE_URLS = [
   './assets/logo-htbc-blanc.svg',
   './assets/logo-htbc-noir.svg',
   './assets/trails-osm-compact.json',
+  // Les assets hashes du bundle (JS/CSS + htbc-config) sont injectes au build par
+  // scripts/inject-sw-precache.mjs : sans eux, premiere ouverture hors ligne = ecran blanc.
+  './htbc-config.js',
+  './assets/index-B-bkPLpa.css',
+  './assets/index-CSlJDFQ5.js',
+  './assets/index-DcUDKe34.js',
+  './assets/index-EtdCZhN3.js',
+  './assets/index-O8HgeLcB.js',
+  './assets/index-Uy8ioMN5.js',
+  './assets/native-geo-Cr2Id_SQ.js',
+  './assets/web-9dmXDKJc.js',
+  './assets/web-DcBCsrQj.js',
+  './assets/web-DnGfZPVY.js',
 ];
 
 function scopedUrl(path) {
