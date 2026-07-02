@@ -8466,14 +8466,14 @@
  },
  {
   "name": "Black 8",
-  "diff": "red",
+  "diff": "black",
   "sector": "Les Arcs / Peisey-Vallandry",
   "km": "5,6",
   "duration": "",
   "elevation": "",
   "rating": "",
   "riders": "",
-  "source": "OpenStreetMap (ODbL)",
+  "source": "OpenStreetMap (ODbL) · niveau HTBC",
   "pts": [
    [
     45.60341,
@@ -9063,14 +9063,14 @@
  },
  {
   "name": "Elle Chablatte",
-  "diff": "blue",
+  "diff": "black",
   "sector": "Les Arcs / Peisey-Vallandry",
   "km": "2,1",
   "duration": "",
   "elevation": "",
   "rating": "",
   "riders": "",
-  "source": "OpenStreetMap (ODbL)",
+  "source": "OpenStreetMap (ODbL) · niveau HTBC",
   "pts": [
    [
     45.5546,
