@@ -1,4 +1,4 @@
-const CACHE_NAME = 'htbc-terrain-build51-plan-resolution-0bd01712';
+const CACHE_NAME = 'htbc-terrain-build51-plan-resolution-68be054e';
 
 const PRECACHE_URLS = [
   './',
@@ -12,16 +12,16 @@ const PRECACHE_URLS = [
   // Les assets hashes du bundle (JS/CSS + htbc-config) sont injectes au build par
   // scripts/inject-sw-precache.mjs : sans eux, premiere ouverture hors ligne = ecran blanc.
   './htbc-config.js',
-  './assets/index-BSFDpW65.js',
-  './assets/index-CiMWMMS4.js',
-  './assets/index-D-QFFZtG.css',
-  './assets/index-DSZegBOY.js',
-  './assets/index-IePzsej9.js',
-  './assets/index-u6OXchE_.js',
-  './assets/native-geo-CxpEO4er.js',
-  './assets/web-5Un1wM55.js',
-  './assets/web-BnKwjFaZ.js',
-  './assets/web-KWT9Z52y.js',
+  './assets/index-BW2HNc6l.css',
+  './assets/index-BX4zRpB8.js',
+  './assets/index-BorQeEEE.js',
+  './assets/index-DF-Ztp3a.js',
+  './assets/index-iRTBDCfJ.js',
+  './assets/index-kur49yxy.js',
+  './assets/native-geo-C1pssSbq.js',
+  './assets/web-BHv1Vs4L.js',
+  './assets/web-CTRVcQki.js',
+  './assets/web-Qv0VtoFN.js',
 ];
 
 function scopedUrl(path) {
